@@ -1,0 +1,141 @@
+nav{
+  text-align: center;
+} 
+
+#menu-h ul li{
+  display: inline;
+  padding: 0%;
+  float:right;
+  position: relative;
+}
+
+.principal {
+width: 700px ;
+margin: auto
+}
+
+.saudacao {
+color: #43afa6;
+font-weight: 25;
+}
+
+.descricao {
+  color: #999a9a;
+  font-size: 16px;
+  line-height: 2em;
+  font-weight: normal;
+}
+
+h3 {
+color: #293651;
+font-weight: 25;
+}
+
+body {
+  background-color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+  margin: 0;
+  padding: 0;
+
+  }
+
+button {
+  color: white;
+  background-color: rgb(73, 177, 151);
+  width: 180px;
+  height: 40px;
+  border-radius: 05px;
+  font-size: 15px;
+  border: none;
+  text-align: center;
+}
+
+h2 {
+  color: #293651;
+  font-weight: 400;
+}
+
+progress {
+  accent-color: rgb(73, 177, 151);
+  width: 100%;
+  border: none;
+  height: 10px;
+}
+
+progress::-webkit-progress-value {
+  background: #00A78E;
+  border-radius: 9px;
+}
+
+progress::-webkit-progress-bar {
+  background: #e2e4e3;
+  border-radius: 9px;
+}
+
+p {
+  color: #5b6b7a;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+
+}
+
+
+.habilidades{
+  padding: 0;
+  font-size: 15px;
+}
+
+li {
+  list-style-type: none;
+
+}
+
+#h2_projetos{
+  text-align: center;
+}
+
+#wyhm{
+  font-weight:100; 
+}
+
+fieldset{
+  background-color: #cadfdc;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  font-size: 15px;
+  border: none;
+  text-align: center;
+  display: inline;
+}
+
+.projetos fieldset img{
+  max-width:60px;
+  max-height:60px;
+  width: auto;
+  height: auto;
+}
+
+#p_projetos{
+  font-size: 12px;
+  color: rgb(24, 40, 56);
+  width: auto;
+  height: 150px;
+}
+
+.caixa_projeto{
+  display: inline-block;
+  width: auto;
+  height: 200px;
+  font-size: 12px;
+  margin: 0;
+ }
+
+.contatos{
+  display: block;
+  border-radius: 1%;
+  color: white;
+}
